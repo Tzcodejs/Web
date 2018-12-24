@@ -7,7 +7,7 @@
 
 <a href="./doc/browser">浏览器</a>
 
-<a href="./doc/JavaScript ES6">JavaScript ES6</a>
+<a href="./doc/JavaScript">JavaScript</a>
 
 <a href="./doc/Vue 核心源码学习">Vue 核心源码学习</a>
 
